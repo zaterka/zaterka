@@ -13,7 +13,7 @@ I'm a data scientist from São Paulo - Brazil, currently working at @4intelligen
   - Image classification tasks ([Repo](https://github.com/zaterka/CarModelClassifier) | [Deployed Model](https://car-classiflier.herokuapp.com/))
   - Customer Segmentation and Prediction ([Repo](https://github.com/zaterka/Customer-Acquisition-Arvato-Bertelsmann) | [Report](https://github.com/zaterka/Customer-Acquisition-Arvato-Bertelsmann/raw/main/Udacity-Capstone_Project-PedroZaterka.pdf))
   - :construction: Comprehensive implementation of the Grokking Deep Learning book by Andrew Trask ([Repo](https://github.com/zaterka/ML-studies-and-examples/blob/main/Studies_Deep_Learning_from_scratch_Grokking_Deep_Learning.ipynb))
-  - Deploying a PyTorch model in AWS using SageMaker ([Repo](https://github.com/zaterka/MachineLearningEngineerNanoDegree/tree/main/Project%201%20-%20Deploying%20Sentiment%20Analysis%20with%20PyTorch%20in%20AWS)
+  - Deploying a PyTorch model in AWS using SageMaker ([Repo](https://github.com/zaterka/MachineLearningEngineerNanoDegree/tree/main/Project%201%20-%20Deploying%20Sentiment%20Analysis%20with%20PyTorch%20in%20AWS))
 
 
 Feel free to message me at [LinkedIn](https://www.linkedin.com/in/pedrozaterka/)

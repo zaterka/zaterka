@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there :bearded_person:
 
 I'm a data scientist from São Paulo - Brazil, currently working at @4intelligence in the Research Data Science team, although sometimes I partake on Machine Learning Engineering and Backend development tasks :nerd_face:
 

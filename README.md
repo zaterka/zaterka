@@ -1,12 +1,16 @@
 ### Hello there :bearded_person:
 
-I'm a data scientist from São Paulo - Brazil, currently working at @4intelligence in the Research Data Science team, although sometimes I partake on Machine Learning Engineering and Backend development tasks :nerd_face:
+I'm a data scientist from São Paulo - Brazil, currently working at @4intelligence in the AutoML & Timeseries team as a Research Data Scientst and ML Engineer, although sometimes I partake on Backend development tasks :nerd_face:
 
 
 - 🔭 I’m currently working with:
   -  Time series forecasting
+  -  Implementing SOTA models *paper to production*
   -  Model optimization
-  -  Writing production ready code in both Python:snake: and R to run on Google Cloud Platform
+  -  Data pipelines
+  -  ML applications on Kubernetes with Argo Workflows
+  -  Writing  and refactoring code to be production ready in both Python:snake: and R to run on Google Cloud Platform
+  - Training and optimizing deep learning models on Microsoft Azure
 
   
 - :art: Some personal projects include:

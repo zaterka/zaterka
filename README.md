@@ -10,7 +10,7 @@ I'm a data scientist from São Paulo - Brazil, currently working at @4intelligen
   -  Data pipelines
   -  ML applications on Kubernetes with Argo Workflows
   -  Writing  and refactoring code to be production ready in both Python:snake: and R to run on Google Cloud Platform
-  - Training and optimizing deep learning models on Microsoft Azure
+  - Training and optimizing deep learning models on Microsoft Azure and AWS
 
   
 - :art: Some personal projects include:

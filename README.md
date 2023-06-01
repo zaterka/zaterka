@@ -1,18 +1,19 @@
 ### Hello there :bearded_person:
 
-I'm a data scientist from São Paulo - Brazil, currently working at @4intelligence in the AutoML & Timeseries team as a Research Data Scientist and ML Engineer, although sometimes I partake on Backend development tasks :nerd_face:
-
+I'm a data scientist from São Paulo - Brazil, currently working at @4intelligence as a Senior Data Scientist and Team Leader for the company's autoML application, developing all stages, from research and development of machine learning algorithms to cloud architecture design and implementation, backend development and stakeholder communication.
 
 - 🔭 I’m currently working with:
-  -  Time series forecasting
+  -  Machine Learning R&D
   -  Leading teams for solving ML/data related problems
+  -  Time series forecasting
   -  Implementing SOTA models *paper to production*
+  -  Designing and implementing cloud applications with Kubernetes
   -  Developing new ML models and pipelines
   -  Model optimization
   -  Data pipelines
-  -  ML applications on Kubernetes with Argo Workflows
+  -  ML applications on Kubernetes with native k8s, Argo Workflows and Katib
   -  Writing  and refactoring code to be production ready in both Python:snake: and R to run on Google Cloud Platform
-  - Training and optimizing deep learning models on Microsoft Azure and AWS
+  -  Training and optimizing deep learning models on Microsoft Azure and AWS
 
   
 - :art: Some personal projects include:

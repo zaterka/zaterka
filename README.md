@@ -1,9 +1,10 @@
 ### Hello there :bearded_person:
 
-I'm a data scientist from São Paulo - Brazil, currently working at @4intelligence as a Senior Data Scientist and Team Leader for the company's autoML application, developing all stages, from research and development of machine learning algorithms to cloud architecture design and implementation, backend development and stakeholder communication.
+I'm a machine learning engineer from São Paulo - Brazil, currently working as a Senior ML Engineer. I have developed Machine Learning Platforms, Generative AI solutions,  autoML applications, machine learning algorithms research, cloud architecture, backend development and stakeholder communication.
 
 - 🔭 I’m currently working with:
   -  Machine Learning R&D
+  -  Generative AI applications
   -  Leading teams for solving ML/data related problems
   -  Time series forecasting
   -  Implementing SOTA models *paper to production*

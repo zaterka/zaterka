@@ -1,30 +1,48 @@
-### Hello there :bearded_person:
+# :bearded_person: Hello there!
 
-I'm a machine learning engineer from São Paulo - Brazil, currently working as a Senior ML Engineer. I have developed Machine Learning Platforms, Generative AI solutions,  autoML applications, machine learning algorithms research, cloud architecture, backend development and stakeholder communication.
+I'm a **Staff Machine Learning Engineer** with 8+ years of experience bridging cutting-edge research and production systems. I've worked in enterprise GenAI platforms, multi-agent architectures, paper-to-production model implementation, time-siers and large-scale ML infrastructure across finance, insurance, retail, real estate, and technology.
 
-- 🔭 I’m currently working with:
-  -  Machine Learning R&D
-  -  Generative AI applications
-  -  Leading teams for solving ML/data related problems
-  -  Time series forecasting
-  -  Implementing SOTA models *paper to production*
-  -  Designing and implementing cloud applications with Kubernetes
-  -  Developing new ML models and pipelines
-  -  Model optimization
-  -  Data pipelines
-  -  ML applications on Kubernetes with native k8s, Argo Workflows and Katib
-  -  Writing  and refactoring code to be production ready in both Python:snake: and R to run on Google Cloud Platform
-  -  Training and optimizing deep learning models on Microsoft Azure and AWS
+---
 
-  
-- :art: Some personal projects include:
-  - Image classification tasks ([Repo](https://github.com/zaterka/CarModelClassifier) | [Deployed Model](https://car-classiflier.herokuapp.com/))
-  - Customer Segmentation and Prediction - 15º place at the respective Kaggle competition ([Repo](https://github.com/zaterka/Customer-Acquisition-Arvato-Bertelsmann) | [Report](https://github.com/zaterka/Customer-Acquisition-Arvato-Bertelsmann/raw/main/Udacity-Capstone_Project-PedroZaterka.pdf))
-  - :construction: Comprehensive implementation of the Grokking Deep Learning book by Andrew Trask ([Repo](https://github.com/zaterka/ML-studies-and-examples/blob/main/Studies_Deep_Learning_from_scratch_Grokking_Deep_Learning.ipynb))
-  - Deploying a PyTorch model in AWS using SageMaker ([Repo](https://github.com/zaterka/MachineLearningEngineerNanoDegree/tree/main/Project%201%20-%20Deploying%20Sentiment%20Analysis%20with%20PyTorch%20in%20AWS))
+### 🚀 What I'm Focused On
+
+* 📄 **GenAI Document Processing at Scale:** Building intelligent extraction systems processing 1M+ pages/month in production.
+* 🤖 **Enterprise Multi-Agent Systems:** Architecting agentic workflows (LangGraph, PydanticAI, Bedrock, MCPs) with Human-in-the-Loop (HITL) execution.
+* 🛠️ **Self-Hosted LLM Infrastructure:** Custom Kubernetes, kServe, and vLLM setups for secure, one-click internal LLM deployments.
+* 🔬 **Paper-to-Production Engineering:** Translating ML research papers into production systems—from scale forecasting architectures (N-BEATS) to custom deep learning frameworks built from scratch.
+* 🔍 **Custom Retrieval & RAG:** Architecting high-precision OpenSearch retrieval pipelines and custom scoring models.
+
+---
+
+### 📦 Open Source & Projects
+
+* 📄 **[local-doc-parser](https://github.com/zaterka/local-doc-parser)** – Local, privacy-first document parsing and structured LLM extraction.
+* 💻 **[code-share](https://github.com/zaterka/codeshare)** – VS Code extension acting as Live Share for coding agents.
+* 📐 **[siamese-confidence](https://github.com/MostlyHarmlessAI/siamese-confidence)** – Pure NumPy implementation of a Siamese Neural Network.
+* 🧹 **[anti-slop-python](https://github.com/zaterka/anti-slop-python)** – Static analysis and quality guardrails to strip out AI-generated code slop.
+* 🏷️ **[title-your-pr](https://github.com/zaterka/title-your-pr)** & **[describe-your-pr](https://github.com/zaterka/describe-your-pr)** – Automated GitHub Actions to write clear, context-aware PR titles and descriptions.
+* 🏛️ **[FastAPI Layered API Template](https://github.com/zaterka/api-template)** – Production-ready, modular architecture template for scalable Python microservices.
+
+---
+
+### 🎤 Talks & Publications
+
+* 🗣️ **KubeCon AI Day:** [Making Complex R Applications into Production using Argo Workflows](https://www.youtube.com/watch?v=fPjztsUXHcg)
+* 📝 **Argo Blog:** [Making Complex R Applications into Production using Argo Workflows](https://blog.argoproj.io/making-complex-r-application-into-production-using-argo-workflows-648ce5d190b5)
+
+---
+
+### 🛠️ Tech Stack & Toolkit
+
+* **GenAI & Agents:** AWS Bedrock, LangGraph, PydanticAI, Claude SDK, vLLM, kServe, Opik, HuggingFace
+* **Machine Learning & Data:** PyTorch, Scikit-learn, XGBoost, Databricks, PySpark, OpenSearch, Pandas, Numba, StatsModels
+* **Backend & Infra:** Python, FastAPI, Docker, Kubernetes, Helm, Argo Workflows, PostgreSQL, MongoDB, DynamoDB
+* **Cloud & DevOps:** AWS (ECS, Lambda, EventBridge, S3), GCP, Azure, GitHub Actions, Terraform
+
+---
 
 
-Feel free to message me at [LinkedIn](https://www.linkedin.com/in/pedrozaterka/)
+Feel free to message me on [LinkedIn](https://www.linkedin.com/in/pedrozaterka/)
 
 - ⚡ Fun fact: I'm a Master of Science in Structural Engineering, having my research based around modelling wind loads using Computational Fluid Dynamics, so I guess I can answer regarding best practices using Finite Elements Analysis and Finite Volumes as well. 
 

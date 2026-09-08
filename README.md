@@ -1,6 +1,6 @@
 # :bearded_person: Hello there!
 
-I'm a **Staff Machine Learning Engineer** with 8+ years of experience bridging cutting-edge research and production systems. I've worked in enterprise GenAI platforms, multi-agent architectures, paper-to-production model implementation, time-siers and large-scale ML infrastructure across finance, insurance, retail, real estate, and technology.
+I'm a **Staff Machine Learning Engineer** with 8+ years of experience bridging cutting-edge research and production systems. I've worked in enterprise GenAI platforms, multi-agent architectures, paper-to-production model implementation, time-series and large-scale ML infrastructure across finance, insurance, retail, real estate, and technology. Working from small startup environments to global enterprise teams across all continents.
 
 ---
 

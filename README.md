@@ -16,6 +16,7 @@ I'm a **Staff Machine Learning Engineer** with 8+ years of experience bridging c
 
 ### 📦 Open Source & Projects
 
+* 🪨 **[Sisyphus](https://github.com/zaterka/sisyphus)** - A lightweight task manager for MacOS - "A task manager for a never ending workload"
 * 📄 **[local-doc-parser](https://github.com/zaterka/local-doc-parser)** – Local, privacy-first document parsing and structured LLM extraction.
 * 💻 **[code-share](https://github.com/zaterka/codeshare)** – VS Code extension acting as Live Share for coding agents.
 * 📐 **[siamese-confidence](https://github.com/MostlyHarmlessAI/siamese-confidence)** – Pure NumPy implementation of a Siamese Neural Network.
